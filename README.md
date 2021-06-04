@@ -1,5 +1,5 @@
 # Javascript-dice-game-exercise
-A JavaScript excercise I have made. You can visit the game here: https://htou.github.io/Javascript-dice-game-exercise/
+A JavaScript excercise I have made that I have made with the help of a tutorial.. You can visit the game here: https://htou.github.io/Javascript-dice-game-exercise/
 
 1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn. (Hint: Always save the previous dice roll in a separate variable)
 
